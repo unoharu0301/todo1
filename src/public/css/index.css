@@ -1,0 +1,45 @@
+.todo__record {
+    background-color: #d1e7dd;
+}
+
+.todo__record__suc {
+    color: #0f5132;
+    font-size: 16px;
+    font-weight: bold;
+    border-color: #badbcc;
+}
+
+.todo-form__item {
+    box-shadow: inset;
+}
+
+.create__button {
+    color: #000;
+}
+
+.create-confirm {
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-update__button {
+    color: #0000ff;
+}
+
+.form-update__button-confirm {
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.form-delete__button {
+    color: #ff0000;
+}
+
+.form-delete__button-confirm {
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+}
+
